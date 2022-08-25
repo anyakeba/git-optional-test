@@ -1,3 +1,4 @@
 print
 Some string
-print 
+print
+Second user
